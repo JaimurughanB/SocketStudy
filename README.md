@@ -55,7 +55,7 @@ Socket programming finds applications in various domains, including web developm
 
 PROGRAM:
 
- Client.py
+Client.py
  
 import socket
 from datetime import datetime
